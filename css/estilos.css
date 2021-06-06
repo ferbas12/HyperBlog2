@@ -1,6 +1,18 @@
 body
 {
-    color: blueviolet;
+    color: #333;
     text-align: center;
     font-family: 'Franklin Gothic Medium';
+}
+#conteiner
+{
+    width: 70%;
+    padding: 1em; 
+    text-align: left;
+    border: 1px solid #DDD;
+    margin:0 auto;  
+}
+#conteiner h1
+{
+    font-size: 20px;
 }
